@@ -7,3 +7,7 @@ Neophodne tehnologije:
 1. Python
 2. Biopython
 3. Prolog
+
+Autori:
+* Maja Nesovic
+* Kristina Todorovic
